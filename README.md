@@ -2,7 +2,11 @@
 
 A dark, red syntax theme. Forked from blackxparade's [Tycho Dark Syntax](https://github.com/blackxparade/Tycho-Dark-Syntax).
 
-### Screenshot
+## Installation
+
+`apm install austere`
+
+## Screenshot
 
 ![Screenshot](./screen.png)
 

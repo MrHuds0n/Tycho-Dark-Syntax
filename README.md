@@ -1,4 +1,4 @@
-# austere-syntax-theme
+# Austere
 
 A dark, red syntax theme. Forked from blackxparade's [Tycho Dark Syntax](https://github.com/blackxparade/Tycho-Dark-Syntax).
 

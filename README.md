@@ -1,8 +1,12 @@
-# austere-syntax-theme
+# Austere
 
 A dark, red syntax theme. Forked from blackxparade's [Tycho Dark Syntax](https://github.com/blackxparade/Tycho-Dark-Syntax).
 
-### Screenshot
+## Installation
+
+`apm install austere`
+
+## Screenshot
 
 ![Screenshot](http://i.imgur.com/qzcf6FZ.png)
 
